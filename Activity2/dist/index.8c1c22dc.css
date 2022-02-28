@@ -1,0 +1,25 @@
+body {
+  background: #ff0707;
+  margin: 0;
+  padding: 50px;
+  color: white;
+}
+
+.container {
+  background-color: #068f1a;
+  padding: 30px;
+}
+
+.titles {
+  border: 5px;
+  border-color: yellow;
+}
+
+p {
+  text-align: right;
+}
+
+button {
+  float: right;
+}
+/*# sourceMappingURL=index.8c1c22dc.css.map */
