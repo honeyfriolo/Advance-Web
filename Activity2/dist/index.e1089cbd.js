@@ -528,10 +528,10 @@ var _lodashDefault = parcelHelpers.interopDefault(_lodash);
     let z = x;
     document.getElementById("increment").innerHTML = z;
 }{
-    let x = 5;
-    x--;
-    let z = x;
-    document.getElementById("demo").innerHTML = z;
+    let g = 20;
+    g--;
+    let s = g;
+    document.getElementById("decrement").innerHTML = s;
 }
 },{"lodash":"3qBDj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["7RClr","6KA6k"], "6KA6k", "parcelRequireb68e")
 

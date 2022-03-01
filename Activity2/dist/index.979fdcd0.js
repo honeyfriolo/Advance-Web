@@ -522,7 +522,7 @@ function hmrAcceptRun(bundle, id) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _lodash = require("lodash");
 var _lodashDefault = parcelHelpers.interopDefault(_lodash);
-document.getElementById("syntax").innerHTML = 10.5;
+document.getElementById("syntax").innerHTML = 12.4;
 
 },{"lodash":"3qBDj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["hxSin","ajI0r"], "ajI0r", "parcelRequireb68e")
 

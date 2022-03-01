@@ -3,16 +3,34 @@ body {
   margin: 0;
   padding: 50px;
   color: white;
+  position: relative;
+}
+
+.design {
+  font-family: "Lucida Handwriting";
+  font-size: 40px;
+  border-style: outset;
+  width: 450px;
+  height: 1550px;
+  float: left;
+}
+.design .js {
+  font-family: "Copperplate";
+  font-size: 300px;
+  float: right;
 }
 
 .container {
   background-color: #068f1a;
   padding: 30px;
+  width: 600px;
+  height: 1500px;
+  position: relative;
+  float: right;
 }
 
 .titles {
-  border: 5px;
-  border-color: yellow;
+  text-decoration: underline;
 }
 
 p {
