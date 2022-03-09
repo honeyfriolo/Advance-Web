@@ -1,3 +1,3 @@
 
-let x = "Volvo" + 16;
+let x = "Grace" + 21;
 document.getElementById("data-types").innerHTML = x;

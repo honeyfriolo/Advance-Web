@@ -1,7 +1,45 @@
  body{
-        background:rgb(240, 233, 233);
+        background:rgb(15, 12, 12);
         margin: 0;
-        padding: 50px;
-        /* color:white;
-        position: relative; */
+        padding: 100px;
+        color:white;
+        position: relative;
     }
+.profile {
+    width: 20%;
+    background-color: white;
+    border-radius: 50%;
+    float: right;
+    margin-bottom: 25px;
+  }
+.pic{
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 75%;
+}
+img{
+    width: 50%;
+    border-radius: 50px;
+}
+.cont {
+    text-align: center;
+    padding: 10px 5px;
+    color: black;
+  }
+.container{
+    margin-top: 100px;
+    position: relative;
+    
+}
+.box1{
+    border: 5px solid powderblue;
+    padding: 20px;
+    position: relative;
+    float: left;
+}
+.box2{
+    border: 5px solid powderblue;
+    padding: 20px;
+    position: relative;
+    float: right;
+}
