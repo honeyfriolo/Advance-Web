@@ -100,7 +100,6 @@ header .user img{
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 1rem;
-    border:.7rem solid var(--red);
 }
 
 header .user .name{
